@@ -1,0 +1,5 @@
+{
+    "env": {
+        "MONGO_ATLAS_CONNECTION": "mongodb+srv://lucasbranddao:Jogamuito25@clusternodegames.jro3yds.mongodb.net/?retryWrites=true&w=majority"
+    }
+}
