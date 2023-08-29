@@ -8,7 +8,7 @@ const mongoose = require('mongoose');
 
 
 // Middleware
-mongoose.connect("mongodb+srv://lucasbranddao:Jogamuito25@clusternodegames.jro3yds.mongodb.net/?retryWrites=true&w=majority");
+mongoose.connect("");
 app.use(morgan('dev'));
 app.use(bodyParser.urlencoded({extended: true}));
 app.use(bodyParser.json());
